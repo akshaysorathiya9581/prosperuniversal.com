@@ -1,0 +1,72 @@
+<?php
+session_start();
+include("function.php");
+if($_POST["operation"] == "")
+{
+	print "<META http-equiv='refresh' content=0;URL=index.php>";
+	exit;
+}
+if($_POST["operation"]=="savesubcategories")
+{
+	$newname=$_POST["newname"];
+	copy("template007.php","../".$newname);
+	chmod($newname,0644);
+}
+if($_POST["operation"]=="savepage")
+{
+	$newname=$_POST["newname"];
+	copy("template008.php","../".$newname);
+	chmod($newname,0644);
+}
+if($_POST["operation"]=="savenewproduct")
+{
+	$newname=$_POST["newname"];
+	copy("template009.php","../".$newname);
+	chmod($newname,0644);
+}
+if($_POST["operation"]=="savephoto")
+{
+	$newname=$_POST["newname"];
+	$newname_90=$_POST["newname_90"];
+	UploadImage('cover1',$newname);
+	chmod($newname,0755);
+	operateImage($newname,90,$newname_90);	
+	chmod($newname_90,0755);
+}
+if($_POST["operation"]=="deletepage")
+{
+	$newname=$_POST["newname"];
+	if(file_exists("../".$newname))
+	{
+		unlink("../".$newname);
+	}
+}
+if($_POST["operation"]=="delete_file2")
+{
+	$newname=$_POST["newname"];
+	$newname2=$_POST["newname2"];
+	if(file_exists("../".$newname))
+	{
+		unlink("../".$newname);
+	}
+	if(file_exists("../".$newname2))
+	{
+		unlink("../".$newname2);
+	}
+}
+if($_POST["operation"]=="delete_file_all")
+{
+	$newname="";
+	for($k=0;$k<$_POST["total"];$k++)
+	{
+		$newname=$_POST["file_".$k];
+		if(file_exists("../".$newname))
+		{
+			if(fileextension("../".$newname) != ".php")
+			{
+				unlink("../".$newname);
+			}
+		}
+	}
+}
+?>

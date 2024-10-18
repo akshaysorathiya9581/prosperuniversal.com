@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80px" height="80px"
+	 viewBox="0 0 80 80" enable-background="new 0 0 80 80" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="99.88" height="107.791" y="331.709" x="860.5" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FAAF40" d="M40,1C61.539,1,79,18.46,79,40c0,21.54-17.461,39-39,39
+		C18.46,79,1,61.539,1,40C1,18.46,18.46,1,40,1"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M40,1C61.539,1,79,18.46,79,40c0,21.54-17.461,39-39,39C18.46,79,1,61.539,1,40C1,18.46,18.46,1,40,1"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#27A191" d="M61.883,30.791
+			c21.537,0,38.998,17.461,38.998,39s-17.461,39-38.998,39c-21.54,0-39.001-17.461-39.001-39S40.343,30.791,61.883,30.791"/>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M34.79,25.239c0.002-0.897,0.283-1.772,0.807-2.502l-3.157-3.048
+		c-0.718,0.832-1.115,1.892-1.122,2.99v15.585h3.473V25.239z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M53.023,22.634H39.131c-1.438,0-2.604,1.167-2.604,2.604v13.024
+		h13.469c1.15-0.006,2.168,0.751,2.494,1.856l2.047,6.826h1.092V25.239C55.629,23.801,54.463,22.634,53.023,22.634"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M57.365,25.239V46.99c0.289-0.018,0.574-0.045,0.869-0.045h2.604
+		V22.217c0.002-1.039-0.346-2.048-0.988-2.865c-0.088-0.111-0.182-0.213-0.277-0.316l-3.1,3.598
+		C57.049,23.381,57.361,24.297,57.365,25.239"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M50.828,40.619C50.717,40.251,50.379,40,49.996,40H21.321
+		c-0.383,0-0.721,0.252-0.832,0.62l-1.896,6.326h34.134L50.828,40.619z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M39.131,20.898h13.892c0.754,0.004,1.494,0.207,2.145,0.589
+		l3.016-3.497c-0.725-0.371-1.525-0.564-2.338-0.567H36.788c-1.12,0.008-2.204,0.381-3.094,1.06l3.176,3.068
+		C37.547,21.127,38.332,20.9,39.131,20.898"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M26.108,52.156h-7.516l2.083,6.945h7.224
+		c-1.17-1.811-1.792-3.922-1.791-6.078V52.156z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M39.914,52.156c1.891,1.189,3.389,2.91,4.307,4.949
+		c0.596-1.814,1.541-3.496,2.777-4.949H39.914z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M51.303,48.684H15.688v0.867c0,0.48,0.389,0.869,0.868,0.869
+		h32.186C49.531,49.752,50.391,49.17,51.303,48.684"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M58.234,48.684c-5.709,0.006-10.748,3.723-12.443,9.172
+		c2.596-2.619,6.152-4.051,9.838-3.963v1.736c-5.354,0-9.771,3.045-10.35,6.947h6.008c7.189-0.01,13.018-5.836,13.025-13.025v-0.867
+		H58.234z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M43.307,59.971c-0.842-4.523-4.784-7.807-9.385-7.814h-6.077
+		v0.867c0.006,5.273,4.278,9.545,9.551,9.553h5.667c-1.184-2.535-4.862-4.342-9.141-4.342v-1.736
+		C37.796,56.498,41.27,57.863,43.307,59.971"/>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+# Ignore everything in the "wp-content/uploads" directory
+wp-content/uploads/
+
+# Ignore WordPress core files (optional, if you don’t want to track WordPress core updates)
+wp-admin/
+wp-includes/
+
+# Ignore wp-config.php (containing sensitive info)
+wp-config.php
+
+# Ignore Composer vendor folder if using Composer for dependencies
+vendor/
+
+# Ignore node_modules folder if using Node.js for frontend tools
+node_modules/
+
+# Ignore log files and debug output
+*.log
+debug.log
+wp-content/debug.log
+
+# Ignore compiled CSS and JS (e.g., using Gulp/Webpack)
+*.css.map
+*.js.map
+*.css
+*.js
+dist/
+build/
+
+# Ignore environment configuration files
+.env
+.env.local
+.env.production
+.env.staging
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.swo
+.cache/
+.tmp/
+
+# Ignore macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific folders and files
+.idea/
+.vscode/
+nbproject/

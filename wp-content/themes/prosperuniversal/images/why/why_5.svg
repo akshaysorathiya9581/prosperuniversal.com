@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80px" height="80px"
+	 viewBox="0 0 80 80" enable-background="new 0 0 80 80" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="99.88" height="107.791" y="331.709" x="860.5" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FAAF40" d="M40,1c21.54,0,39,17.461,39,39c0,21.539-17.461,39-39,39
+		C18.46,79,1,61.539,1,40C1,18.461,18.46,1,40,1"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M40,1c21.54,0,39,17.461,39,39c0,21.539-17.461,39-39,39C18.46,79,1,61.539,1,40C1,18.461,18.46,1,40,1"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#27A191" d="M61.883,30.791
+			c21.537,0,38.998,17.461,38.998,39s-17.461,39-38.998,39c-21.54,0-39.001-17.461-39.001-39S40.343,30.791,61.883,30.791"/>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M54.76,28.578c2.252,0,4.074,1.825,4.074,4.076
+		c0,2.25-1.822,4.075-4.074,4.075s-4.076-1.825-4.076-4.075C50.684,30.402,52.508,28.578,54.76,28.578"/>
+	<rect x="62.086" y="31.836" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2.445" height="1.63"/>
+	<rect x="53.941" y="22.876" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.631" height="2.447"/>
+	<rect x="53.941" y="39.98" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.631" height="2.446"/>
+	
+		<rect x="60.126" y="25.318" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.5311 50.9838)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2.304" height="1.63"/>
+	
+		<rect x="47.431" y="24.982" transform="matrix(0.707 -0.7073 0.7073 0.707 -4.3453 41.7808)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.63" height="2.304"/>
+	
+		<rect x="60.463" y="38.015" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -9.747 54.8012)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="1.63" height="2.303"/>
+	
+		<rect x="47.095" y="38.35" transform="matrix(0.7074 -0.7068 0.7068 0.7074 -13.5656 45.5584)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2.303" height="1.63"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M40.099,52.197c1.799,0,3.26,1.461,3.26,3.262
+		s-1.461,3.26-3.26,3.26c-1.801,0-3.262-1.459-3.262-3.26S38.298,52.197,40.099,52.197"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M43.77,49.131l-0.408-0.234v-1.561h-3.26v-1.631h3.26v-3.26h-3.26
+		v-1.63h3.26v-3.261h-3.26v-1.632h3.26v-3.261h-3.26v-1.629h3.26v-3.261h-3.26v-1.631h3.26V22.88h-3.26v-1.63h3.26v-0.816
+		c0-1.803-1.455-3.26-3.26-3.26c-1.803,0-3.26,1.457-3.26,3.26v28.46l-0.407,0.234c-3.506,2.027-4.708,6.512-2.69,10.025
+		c2.019,3.516,6.511,4.709,10.026,2.691c3.506-2.027,4.709-6.512,2.691-10.027C45.809,50.699,44.881,49.771,43.77,49.131
+		 M40.101,60.379c-2.699,0-4.89-2.191-4.89-4.891c0-2.701,2.19-4.893,4.89-4.893c2.702,0,4.891,2.191,4.891,4.893
+		C44.992,58.188,42.803,60.379,40.101,60.379z"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="33.137,37.192 31.731,36.347 33.789,35.837 
+		33.402,34.257 29.744,35.165 26.218,33.066 29.744,30.967 33.402,31.874 33.789,30.293 31.731,29.785 33.137,28.938 32.3,27.543 
+		30.875,28.388 31.394,26.34 29.814,25.943 28.899,29.57 25.443,31.628 25.443,27.635 28.103,24.995 26.962,23.833 25.443,25.342 
+		25.443,23.691 23.813,23.691 23.813,25.342 22.295,23.833 21.153,24.995 23.813,27.635 23.813,31.628 20.36,29.57 19.442,25.943 
+		17.862,26.34 18.382,28.388 16.956,27.543 16.119,28.938 17.527,29.785 15.467,30.293 15.855,31.874 19.512,30.967 23.04,33.066 
+		19.512,35.165 15.855,34.257 15.467,35.837 17.527,36.347 16.119,37.192 16.956,38.588 18.382,37.743 17.862,39.791 19.442,40.188 
+		20.36,36.561 23.813,34.501 23.813,38.497 21.153,41.135 22.295,42.297 23.813,40.789 23.813,42.439 25.443,42.439 25.443,40.789 
+		26.962,42.297 28.103,41.135 25.443,38.497 25.443,34.501 28.899,36.561 29.814,40.188 31.394,39.791 30.875,37.743 32.3,38.588 	
+		"/>
+	<rect x="21.363" y="47.311" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="6.521" height="1.631"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="55.574,44.867 53.943,44.867 53.943,47.313 
+		51.498,47.313 51.498,48.943 53.943,48.943 53.943,51.389 55.574,51.389 55.574,48.943 58.02,48.943 58.02,47.313 55.574,47.313 	
+		"/>
+	<rect x="44.982" y="31.836" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="2.443" height="1.63"/>
+</g>
+</svg>
